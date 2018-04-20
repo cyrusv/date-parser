@@ -2,7 +2,11 @@
 
 To install:
 
-```pip install requirements.txt```
+```
+virtualenv venv
+source venv/bin/activate
+pip install requirements.txt
+```
 
 To run the server:
 
