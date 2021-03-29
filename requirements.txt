@@ -10,7 +10,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 parsedatetime==2.4
-Pygments==2.2.0
+Pygments==2.7.4
 pyrepl==0.8.4
 python-dateutil>=1.7.2
 pytz==2018.4
